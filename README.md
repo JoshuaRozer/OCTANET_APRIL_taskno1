@@ -1,4 +1,4 @@
-# OCTANET_APRIL_taskno1
+
 # OCTANET Landing Page
 
 Welcome to the repository for my Landing Page, a project developed during my web development internship at OctaNet Services. This landing page is designed to captivate visitors and encourage them to take a specific action, such as signing up or exploring a product or service.
